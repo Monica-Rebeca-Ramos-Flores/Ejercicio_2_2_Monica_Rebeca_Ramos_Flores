@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "ukauG1GU97nX7OU05ceREanQuS8DLgfDgrencDrBnchsST8WAz8myqAQw+KZTAG8AC5cOYYvsB05rZ442/hfWQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\Ejercicio_2_2_Monica_Rebeca_Ramos_Flores\\Ejercicio_2_2_Monica_Rebeca_Ramos_Flores.iOS\\Ejercicio_2_2_Monica_Rebeca_Ramos_Flores.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\xamarin.controls.signaturepad\\3.0.0\\xamarin.controls.signaturepad.3.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\xamarin.controls.signaturepad.forms\\3.0.0\\xamarin.controls.signaturepad.forms.3.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
